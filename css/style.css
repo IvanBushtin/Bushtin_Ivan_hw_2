@@ -1,0 +1,38 @@
+body{
+	margin:0;
+	padding:0;
+}
+article {
+	padding:10px 200px;
+	font:11pt 'Times New Roman', serif;
+}
+h1 {
+	font-size:20pt;
+	text-align:center;
+}
+.authors {
+	text-align:center;
+	font-size:14pt;
+}
+.microsoft {
+	text-align:center;
+	font-size:12pt;
+}
+h3{
+	font-size:18pt;
+}
+h4{
+	font-size:16pt;
+}
+.center{
+	text-align:center;
+	display:block;
+	margin:0 auto;
+}
+.right{
+	text-align:right;
+}
+.left{
+	float:left;
+	margin:0 15px 0 0;
+}
